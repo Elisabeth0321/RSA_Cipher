@@ -78,6 +78,7 @@
     </Compile>
     <None Include="README.md" />
     <None Include="Отчет.docx" />
+    <None Include="Примеры работы алгоритмов.docx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
